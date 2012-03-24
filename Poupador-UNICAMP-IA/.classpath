@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="algoritmo/Ladrao-braulio.java|algoritmo/Ladrao-edilson.java|algoritmo/Ladrao-felipe.java|algoritmo/Ladrao-guillaume.java|algoritmo/Ladrao-miguel.java|algoritmo/Poupador-braulio.java|algoritmo/Poupador-edilson.java|algoritmo/Poupador-felipe.java|algoritmo/Poupador-guillaume.java|algoritmo/Poupador-miguel.java|algoritmo/Console.java|algoritmo/Mapa.java|algoritmo/poupador/|algoritmo/ladrao/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/poupador.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

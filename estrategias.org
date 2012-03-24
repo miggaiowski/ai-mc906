@@ -1,0 +1,14 @@
+* Poupador nao pega nenhuma moeda até encontrar o banco. Quando acha o banco, ele pega um moeda e vai diretamente ao banco e deposita e pára! Como nao tinha pego nenhuma moeda antes, os ladroes nao tem como ter roubado nada. Como ladroes nao podem pegar moedas do chão, não terão nenhuma moeda, enquanto o poupador terá uma moeda no banco.
+
+* Algoritmos
+** A*
+** Contorno de obstaculos
+** Caminho mais curto simples
+** Mapeamento
+
+* Atividades básicas do poupador
+** Explorar ambiente
+** Guardar moedas no banco
+** Pegar moeda
+** Fugir do ladrão
+
